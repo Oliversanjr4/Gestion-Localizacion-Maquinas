@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Seguimiento"
+        android:title="Seguimiento"
+        android:icon="@drawable/seguimiento_gris"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/MapaI"
+        android:title="Mapa"
+        android:icon="@drawable/icono_mapa_gris"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/Recorridos"
+        android:title="None"
+        android:icon="@drawable/baseline_close_24"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/Notificaciones"
+        android:title="None"
+        android:icon="@drawable/baseline_close_24"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/Perfil"
+        android:title="None"
+        android:icon="@drawable/baseline_close_24"
+        app:showAsAction="always"
+        />
+
+
+
+</menu>
